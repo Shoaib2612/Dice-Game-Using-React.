@@ -1,2 +1,3 @@
 # Dice-Game-Using-React.JS
 🎲 Dice Game in React.js! Choose a number (1-6), roll the dice, and earn points if it matches. Accumulate scores with each match, but beware, a mismatch deducts two points. Simple, fun, and a test of luck! 🚀 #ReactJS #DiceGame.
+This React.js-based dice game allows users to select a number between 1 to 6 and roll the dice. If the chosen number matches the dice roll, the player earns points equal to the selected number. Subsequent matches add to the player's score, while mismatches result in a deduction of two points. The game offers a simple yet engaging way to test luck and accumulate points with each roll.
