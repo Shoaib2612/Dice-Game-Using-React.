@@ -1,0 +1,18 @@
+
+section{
+  display: flex;
+  width: 1186px;
+  height: 522px;
+  margin-top: 100px;
+  margin-left: 129px;
+  gap: 5px;
+}
+.heading{
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  line-height: 144px;
+  size: 96px;
+
+}
+
